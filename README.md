@@ -2,4 +2,5 @@
  
 A simple 2D game using Unity.
 
-## Demo
+## What have done
+
